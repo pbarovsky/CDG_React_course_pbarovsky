@@ -1,1 +1,2 @@
 Hello from Ubuntu, Git!
+Adding some info's =)
